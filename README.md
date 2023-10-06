@@ -1,2 +1,1 @@
-# maicol_oroyecto
-proyectos personales
+es un proyecto personal
